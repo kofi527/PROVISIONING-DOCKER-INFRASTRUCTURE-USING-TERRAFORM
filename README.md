@@ -18,4 +18,9 @@ Install Prerequisites:
 
 3.  Main.tf file containing infrastrucutre for docker infrastucture
    
-    <img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/5c3b76e7-9373-4ad6-a873-486846242f1e" />
+ <img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/5c3b76e7-9373-4ad6-a873-486846242f1e" />
+
+4. Terraform fmt - 
+We recommend using consistent formatting to ensure readability. The terraform fmt command automatically reformats all configuration files in the current directory according to HashiCorp's recommended style.
+<img width="321" height="32" alt="image" src="https://github.com/user-attachments/assets/7ee65ffa-21f8-450d-95a4-13f81ca92e72" />
+

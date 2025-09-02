@@ -24,3 +24,7 @@ Install Prerequisites:
 We recommend using consistent formatting to ensure readability. The terraform fmt command automatically reformats all configuration files in the current directory according to HashiCorp's recommended style.
 <img width="321" height="32" alt="image" src="https://github.com/user-attachments/assets/7ee65ffa-21f8-450d-95a4-13f81ca92e72" />
 
+5.Validate configuration
+we make sure our configuration is syntactically valid and internally consistent by using the terraform  validate command
+
+<img width="303" height="29" alt="image" src="https://github.com/user-attachments/assets/853c33b5-24c9-4ffe-b8e3-911f1121e73c" />

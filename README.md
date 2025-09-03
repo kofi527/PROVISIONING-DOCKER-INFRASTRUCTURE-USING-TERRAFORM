@@ -28,3 +28,8 @@ We recommend using consistent formatting to ensure readability. The terraform fm
 we make sure our configuration is syntactically valid and internally consistent by using the terraform  validate command
 
 <img width="303" height="29" alt="image" src="https://github.com/user-attachments/assets/853c33b5-24c9-4ffe-b8e3-911f1121e73c" />
+
+6. Project is initialized which downloads the plugins that allows terraform to interact with docker, this is done by running terraform init
+
+<img width="468" height="242" alt="image" src="https://github.com/user-attachments/assets/3fd96314-76ce-432c-a35f-a1b0459379eb" />
+

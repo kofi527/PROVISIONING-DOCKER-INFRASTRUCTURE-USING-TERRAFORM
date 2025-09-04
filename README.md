@@ -33,3 +33,8 @@ we make sure our configuration is syntactically valid and internally consistent 
 
 <img width="468" height="242" alt="image" src="https://github.com/user-attachments/assets/3fd96314-76ce-432c-a35f-a1b0459379eb" />
 
+7. Provision the NGINX server container with apply. When Terraform ask you to confirm type yes and press enter.
+   
+<img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/9e63dd01-1e1a-46f3-9258-eae046eafcda" />
+
+

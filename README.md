@@ -37,4 +37,10 @@ we make sure our configuration is syntactically valid and internally consistent 
    
 <img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/9e63dd01-1e1a-46f3-9258-eae046eafcda" />
 
+8. We can run docker ps to view how newly created infrastructure
+
+   <img width="412" height="275" alt="image" src="https://github.com/user-attachments/assets/43b7e218-e888-4998-bbaa-76dc8971f42f" />
+
+   
+
 

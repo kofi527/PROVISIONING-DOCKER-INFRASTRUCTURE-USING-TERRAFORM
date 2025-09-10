@@ -41,6 +41,11 @@ we make sure our configuration is syntactically valid and internally consistent 
 
    <img width="412" height="275" alt="image" src="https://github.com/user-attachments/assets/43b7e218-e888-4998-bbaa-76dc8971f42f" />
 
+9. Run terraform destroy to eliminate your infrastructure
+
+  <img width="468" height="124" alt="image" src="https://github.com/user-attachments/assets/7c848607-4281-42ee-99f1-1c8e119affa8" />
+
+
    
 
 

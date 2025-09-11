@@ -45,6 +45,7 @@ we make sure our configuration is syntactically valid and internally consistent 
 
   <img width="468" height="124" alt="image" src="https://github.com/user-attachments/assets/7c848607-4281-42ee-99f1-1c8e119affa8" />
 
+10. Terraform compares your configuration with the state file and your existing infrastructure to create plans and make changes to your infrastructure. When you run terraform apply or terraform destroy against your initialized configuration, Terraform writes metadata about your configuration to the state file and updates your infrastructure resources accordingly. Occasionally, you may need to manipulate your projects state outside of the standard workflow.
 
    
 

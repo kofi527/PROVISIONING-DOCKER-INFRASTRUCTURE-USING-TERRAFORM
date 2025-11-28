@@ -12,7 +12,9 @@
 **PREREQUISITES**
 
    Install Prerequisites:
+   
       1. Terraform: Install the Terraform CLI on your system.
+      
       2. Docker: Install Docker Desktop (or Docker Engine) on your system.
 
 **Project description and execution**

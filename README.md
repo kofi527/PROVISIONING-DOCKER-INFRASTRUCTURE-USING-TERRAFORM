@@ -59,5 +59,11 @@
 10. Terraform compares your configuration with the state file and your existing infrastructure to create plans and make changes to your infrastructure. When you run terraform apply or terraform destroy against your initialized configuration, Terraform writes metadata about your configuration to the state file and updates your infrastructure resources accordingly. Occasionally, you may need to manipulate your projects state outside of the standard workflow.
 
    
-
+**KEY TAKEAWAYS FROM PROJECT**
+   --
+ The above project demonstrated the following
+ 1. Key understanding of the terraform modules and syntaxes
+ 2. Understanding the implementations of the verious terraform commands
+ 3. Re-organization of the various modules to provision an infrstrasture(Docker)
+ 4. Understanding of versioning in terraform and implementations with plugins in terraform
 
